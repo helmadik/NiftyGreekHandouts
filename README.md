@@ -2,6 +2,7 @@
 Classical Greek Morphology overviews (mostly). No explanations, just the forms.
 
 Almostallhandouts.pdf contains: 
+
 -a and o declension plus definite article
 
 -def. art., relative, indef., interrog., demonstratives (ὁ, ἡ, τό; ὅς, ἥ, ὅ; τις, τίς; ὅδε, οὗτος, ἐκεῖνος)
